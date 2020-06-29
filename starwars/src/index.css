@@ -5,3 +5,10 @@ body {
   background-image: url('./images/sw-bg.jpg');
   background-size: cover;
 }
+.App{
+  max-width: 90px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
